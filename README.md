@@ -1,22 +1,3 @@
-# OpenSpec vs VibeCode Demo
+## Vibecode Approach
 
-## Objective
-Compare development workflows using OpenSpec and VibeCode.
-
-## App Chosen
-Simple Calculator App
-
-## Features
-- Add
-- Subtract
-- Multiply
-- Divide
-
-## Branches
-- openspec
-- vibecode
-
-## Tech Stack
-- Python
-- Flask
-- HTML/CSS
+The application was developed using direct AI-assisted code generation with minimal upfront planning. The focus was rapid prototyping and quick implementation.
