@@ -1,22 +1,23 @@
-# OpenSpec vs VibeCode Demo
+# OpenSpec Calculator App
 
-## Objective
-Compare development workflows using OpenSpec and VibeCode.
+## Development Approach
+This branch follows a specification-first development process.
 
-## App Chosen
-Simple Calculator App
+## Steps Followed
+1. Requirement analysis
+2. Functional specification
+3. Application design
+4. Implementation
+5. Testing
 
 ## Features
 - Add
 - Subtract
 - Multiply
 - Divide
-
-## Branches
-- openspec
-- vibecode
+- Division-by-zero handling
 
 ## Tech Stack
-- Python
 - Flask
-- HTML/CSS
+- Python
+- HTML
