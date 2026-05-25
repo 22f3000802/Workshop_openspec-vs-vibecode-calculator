@@ -10,7 +10,7 @@ Develop a simple Flask-based calculator application.
   - Subtraction
   - Multiplication
   - Division
-- Display calculated result
+- Display result
 - Handle division by zero
 
 ## Non-Functional Requirements
